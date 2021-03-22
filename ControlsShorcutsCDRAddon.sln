@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsShorcutsCDRAddon", "ControlsShorcutsCDRAddon\ControlsShorcutsCDRAddon.csproj", "{ECBEB939-D910-4DE0-B80B-505C677821AF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC3DD2E5-5A21-47FB-89E6-7DE956F67C84}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+		..\..\..\OneDrive\Ambiente de Trabalho\shortcuts.png = ..\..\..\OneDrive\Ambiente de Trabalho\shortcuts.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		X8 Debug|Any CPU = X8 Debug|Any CPU
