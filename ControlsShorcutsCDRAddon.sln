@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsShorcutsCDRAddon", "ControlsShorcutsCDRAddon\ControlsShorcutsCDRAddon.csproj", "{ECBEB939-D910-4DE0-B80B-505C677821AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		X8 Debug|Any CPU = X8 Debug|Any CPU
+		X8 Release|Any CPU = X8 Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBEB939-D910-4DE0-B80B-505C677821AF}.X8 Debug|Any CPU.ActiveCfg = X8 Debug|Any CPU
+		{ECBEB939-D910-4DE0-B80B-505C677821AF}.X8 Debug|Any CPU.Build.0 = X8 Debug|Any CPU
+		{ECBEB939-D910-4DE0-B80B-505C677821AF}.X8 Release|Any CPU.ActiveCfg = X8 Release|Any CPU
+		{ECBEB939-D910-4DE0-B80B-505C677821AF}.X8 Release|Any CPU.Build.0 = X8 Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1EC502-652B-431A-930D-7D17DAD86387}
+	EndGlobalSection
+EndGlobal
