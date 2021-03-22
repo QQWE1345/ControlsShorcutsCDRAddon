@@ -1,3 +1,3 @@
-[!NOTE]
-This is a test project
-[!image Result]("/shortcuts.png")
+# This is a test project
+### Result
+![image Result](/shortcuts.png)
